@@ -2,14 +2,14 @@ This Privacy Policy applies to the Discord Bot named ニキータ・パリク. W
 
 Information We Collect:
 
-We do not store your information more than a day*
-
 We collect information from you when you use our Discord Bot. This includes:
 
-• Your Discord's username, user ID and your Discriminator Tag
-• Your Guild's name, icon and ID
-• Your messages to the Discord Bot
-• Your permissions names in the Guild
+• Your discord's username, user ID and your discriminator tag
+• Your guild's name, guild's ID, guild's owner ID
+• Your messages to the discord bot
+• Your permissions names in the guild
+
+Only your guild's name, its ID and its owner's ID is logged and stored among the list mentioned above.
 
 We may also collect other information from you, such as language preference.
 
@@ -20,6 +20,8 @@ We use the information we collect from you to provide you with a better experien
 • Responding to your messages
 • Customizing the content we show you
 • Improving the Discord Bot
+
+WE DO NOT SHARE ANY INFORMATION WE COLLECT TO ANYONE.
 
 We may also use your information for other purposes, such as for research and analytics.
 
